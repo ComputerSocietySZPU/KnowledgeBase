@@ -1,5 +1,6 @@
 # 欢迎使用计算机学会知识库！
 ## 我们会定期在这里投放一些提高工作效率和幸福感的小技巧！
+## [原站/语雀](https://www.yuque.com/xunxingye/lmomn2)
 
 # [目录](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles)
 
