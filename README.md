@@ -21,6 +21,7 @@
 ### [好玩有用的小玩意](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%A5%BD%E7%8E%A9%E6%9C%89%E7%94%A8%E5%B0%8F%E7%8E%A9%E6%84%8F)
 
 <details>
+
 - [一键激活windows——KMS激活工具](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%A5%BD%E7%8E%A9%E6%9C%89%E7%94%A8%E5%B0%8F%E7%8E%A9%E6%84%8F/%E4%B8%80%E9%94%AE%E6%BF%80%E6%B4%BBwindows%E2%80%94%E2%80%94KMS%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/%E4%B8%80%E9%94%AE%E6%BF%80%E6%B4%BBwindows%E2%80%94%E2%80%94KMS%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.md)
 
 - [全能百宝箱——图吧工具箱](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%A5%BD%E7%8E%A9%E6%9C%89%E7%94%A8%E5%B0%8F%E7%8E%A9%E6%84%8F/%E5%85%A8%E8%83%BD%E7%99%BE%E5%AE%9D%E7%AE%B1%E2%80%94%E2%80%94%E5%9B%BE%E5%90%A7%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%85%A8%E8%83%BD%E7%99%BE%E5%AE%9D%E7%AE%B1%E2%80%94%E2%80%94%E5%9B%BE%E5%90%A7%E5%B7%A5%E5%85%B7%E7%AE%B1.md) **推荐阅读**
@@ -45,6 +46,7 @@
 ### [数理化](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96)
 
 <details>
+
 - [SimpleTex——最强公式识别神器，没有之一](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96/SimpleTex%E2%80%94%E2%80%94%E6%9C%80%E5%BC%BA%E5%85%AC%E5%BC%8F%E8%AF%86%E5%88%AB%E7%A5%9E%E5%99%A8%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B9%8B%E4%B8%80)
 
 - [免费数学工具组--Desmos](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96/%E5%85%8D%E8%B4%B9%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7%E7%BB%84--Desmos/%E5%85%8D%E8%B4%B9%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7%E7%BB%84--Desmos.md)
@@ -53,6 +55,7 @@
 ## [干货、教程](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B9%B2%E8%B4%A7%E3%80%81%E6%95%99%E7%A8%8B)
 
 <details>
+
 - [vscode c/c++中文乱码解决](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B9%B2%E8%B4%A7%E3%80%81%E6%95%99%E7%A8%8B/vscode%20c/c%2B%2B%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E8%A7%A3%E5%86%B3/vscode%20c/c%2B%2B%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E8%A7%A3%E5%86%B3.md)
   
 - [校内创赛？学长经验之谈](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B9%B2%E8%B4%A7%E3%80%81%E6%95%99%E7%A8%8B/%E6%A0%A1%E5%86%85%E5%88%9B%E8%B5%9B%EF%BC%9F%E5%AD%A6%E9%95%BF%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88/%E6%A0%A1%E5%86%85%E5%88%9B%E8%B5%9B%EF%BC%9F%E5%AD%A6%E9%95%BF%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88.md)
@@ -61,6 +64,7 @@
 ## [校园生活](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB)
 
 <details>
+
 - [校园邮箱的妙用](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/%E6%A0%A1%E5%9B%AD%E9%82%AE%E7%AE%B1%E7%9A%84%E5%A6%99%E7%94%A8/%E6%A0%A1%E5%9B%AD%E9%82%AE%E7%AE%B1%E7%9A%84%E5%A6%99%E7%94%A8.md)
 **推荐阅读**
 
@@ -78,6 +82,7 @@
 ## [编程](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E7%BC%96%E7%A8%8B)
 
 <details>
+
 - [CS自学指南-梦开始的地方](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E7%BC%96%E7%A8%8B/CS%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97-%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/CS%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97-%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9.md)
 
 - [Python/去除列表重复元素](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E7%BC%96%E7%A8%8B/Python/%E5%8E%BB%E9%99%A4%E5%88%97%E8%A1%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/%E5%8E%BB%E9%99%A4%E5%88%97%E8%A1%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
