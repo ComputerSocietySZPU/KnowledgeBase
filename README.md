@@ -42,9 +42,9 @@
 - [透明任务栏见过没？——Translucenttb](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E5%A5%BD%E7%8E%A9%E6%9C%89%E7%94%A8%E5%B0%8F%E7%8E%A9%E6%84%8F/%E9%80%8F%E6%98%8E%E4%BB%BB%E5%8A%A1%E6%A0%8F%E8%A7%81%E8%BF%87%E6%B2%A1%EF%BC%9F%E2%80%94%E2%80%94Translucenttb/%E9%80%8F%E6%98%8E%E4%BB%BB%E5%8A%A1%E6%A0%8F%E8%A7%81%E8%BF%87%E6%B2%A1%EF%BC%9F%E2%80%94%E2%80%94Translucenttb.md)
 </details>
 
-<details>
 ### [数理化](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96)
 
+<details>
 - [SimpleTex——最强公式识别神器，没有之一](https://github.com/ComputerSocietySZPU/KnowledgeBase/tree/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96/SimpleTex%E2%80%94%E2%80%94%E6%9C%80%E5%BC%BA%E5%85%AC%E5%BC%8F%E8%AF%86%E5%88%AB%E7%A5%9E%E5%99%A8%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B9%8B%E4%B8%80)
 
 - [免费数学工具组--Desmos](https://github.com/ComputerSocietySZPU/KnowledgeBase/blob/main/Articles/%E5%B7%A5%E5%85%B7%E3%80%81%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/%E6%95%B0%E7%90%86%E5%8C%96/%E5%85%8D%E8%B4%B9%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7%E7%BB%84--Desmos/%E5%85%8D%E8%B4%B9%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7%E7%BB%84--Desmos.md)
